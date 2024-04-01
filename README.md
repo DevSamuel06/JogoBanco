@@ -10,7 +10,7 @@ Em um mundo dominado pelos soldados inimigos, Rambo, o último sobrevivente, lut
 
 ## Gameplay
 
-[![Assista ao vídeo de gameplay([URL_DA_PÁGINA_DO_YOUTUBE](https://youtu.be/WIucHDYeuDY))
+[![Assista ao vídeo de gameplay](https://youtu.be/WIucHDYeuDY)
 
 Para jogar, acesse o jogo clicando [aqui](https://resplendent-mochi-91ccbb.netlify.app/).
 
